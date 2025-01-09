@@ -20,7 +20,7 @@ Terminal 2
 Hello World!!!%
 ```
 
-Terminal 3
+Terminal
 ```
 % pwd
 /Users/.../Documents/console_202501/frontend
@@ -118,6 +118,17 @@ Hello World!!!%
 
 # Frontend
 
+ダッシュボードを追加しました。
+https://zenn.dev/tsuruo/articles/142d35b5e6395c?redirected=1#2%E6%AC%A1%E5%85%83%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB
+https://github.com/htsuruo/flutter-admin-dashboard-template
+
+実行します
+Terminal
+```
+% pwd
+/Users/.../Documents/console_202501/frontend
+ryo@RYO-Mac frontend % flutter run -d chrome
+```
 
 
 # 参考
