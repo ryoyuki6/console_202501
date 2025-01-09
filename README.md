@@ -20,6 +20,12 @@ Terminal 2
 Hello World!!!%
 ```
 
+Terminal 3
+```
+% pwd
+/Users/.../Documents/console_202501/frontend
+ryo@RYO-Mac frontend % flutter run -d chrome
+```
 
 
 # Backend
