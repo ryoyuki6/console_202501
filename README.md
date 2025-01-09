@@ -1,7 +1,25 @@
-## 目次
+# 目次
 
-1. [Backend](#backend)
-2. [Frontend](#frontend)
+1. [実行方法](#実行方法)
+2. [Backend](#backend)
+3. [Frontend](#frontend)
+
+
+# 実行方法
+
+Terminal 1
+```
+% pwd
+/Users/.../Documents/console_202501/backend/main
+ryo@RYO-Mac main % go run .
+```
+
+Terminal 2
+```
+% curl http://localhost:3000
+Hello World!!!%
+```
+
 
 
 # Backend
